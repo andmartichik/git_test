@@ -1,3 +1,4 @@
+
 import random
 
 
@@ -6,3 +7,6 @@ def get_random():
 
 
 print(get_random())
+
+print("hello world")
+
